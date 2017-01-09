@@ -10,8 +10,8 @@ It supports sending and recieving AHEA, NEC and Sony formats and sending Ohm's O
 The program is written to acheive my purpose, so modify it so as to acheive your purpose. 
 Part of this program is based on codes by kenkenpa (http://hello-world.blog.so-net.ne.jp/2011-05-19).
 
-## Circuits
-Connect IR remote recieving module to pin 2 and IR LED to pin 3.
+## Circuits and Serial
+Connect IR remote recieving module to pin 2 and IR LED to pin 3. The speed of serial port is 115.2kbps.
 
 ## Serial commands
 - Axxxxxxxx...xx¥n
