@@ -2,13 +2,13 @@
 An Arduino program to send and receive infrared remote signals
 
 ## Abstract
-This is a program runs on Atmega328 5V 16Mhz based Arduino (Uno, Nano, etc.). 
+This is a program which runs on Atmega328 5V 16Mhz based Arduino (Uno, Nano, etc.). 
 It gets commands from the serial port and send infrared remote signals. 
 It also sends infrared remote signals to the serial port. 
 It supports sending and recieving AHEA, NEC and Sony formats and sending Ohm's OCR-04 and OCR-05 signals.
 
 The program is written to acheive my purpose, so modify it so as to acheive your purpose. 
-Part of this program is based on codes by kenenpa (http://hello-world.blog.so-net.ne.jp/2011-05-19).
+Part of this program is based on codes by kenkenpa (http://hello-world.blog.so-net.ne.jp/2011-05-19).
 
 ## Circuits
 Connect IR remote recieving module to pin 2 and IR LED to pin 3.
